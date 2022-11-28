@@ -12,7 +12,9 @@
 - 📫 How to reach me *harshauv9@gmail.com*
 
 <h2><i>GitHub Stats</i></h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshau9&theme=radical)
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=radical" alt="harsha" height="139" />
+</p>
 
 
 
