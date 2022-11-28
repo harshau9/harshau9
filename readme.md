@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *MERN stack web Development*
 
-- 💬 Ask me about *HTML,CSS, JavaScript, React*
+<!-- - 💬 Ask me about *HTML,CSS, JavaScript, React* -->
 
 - 📫 How to reach me *harshauv9@gmail.com*
 
@@ -25,7 +25,7 @@
 <!-- <h3 align="center">
 <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" style="width: 300px; display: inline; opacity: 1;">
 </h3> -->
-<h2><i>GitHub Stats</i></h2>
+<!-- <h2><i>GitHub Stats</i></h2> -->
 
 <!-- <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EswarSai19&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
