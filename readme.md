@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *MERN stack web Development*
 
-<!-- - 💬 Ask me about *HTML,CSS, JavaScript, React* -->
+- 💬 Ask me about *HTML,CSS, JavaScript, React*
 
 - 📫 How to reach me *harshauv9@gmail.com*
 
