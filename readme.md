@@ -10,6 +10,12 @@
 - 💬 Ask me about *HTML,CSS, JavaScript, React*
 
 - 📫 How to reach me *harshauv9@gmail.com*
+- <h3 align="left"><i>Connect with me:</i></h3>
+<p align="left">
+
+<a href="linkedin.com/in/harsha-umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsai19" height="30" width="40" /></a>
+</p>
+
 
 <h2><i>GitHub Stats</i></h2>
 <p>
