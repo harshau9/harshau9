@@ -14,8 +14,8 @@
 <h2><i>GitHub Stats</i></h2>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=radical" alt="harsha" height="139" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api?username=harshau9&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=harshau9&show_icons=true&theme=radical)" alt="harsha" height="139" />
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=harshau9&show_icons=true&theme=radical
 
 
 
