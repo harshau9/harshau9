@@ -47,6 +47,10 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshau9&theme=dracula" alt="profile graph" height="150" />
 </p>
 <br> 
+ <p align="center">
+    <img src="https://streak-stats.demolab.com?user=harshau9&theme=dracula)](https://git.io/streak-stats" alt="profile graph" height="150" />
+</p>
+<br> 
 <hr>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harshau9&theme=monokai" alt="trophy" /> </p>
 <p align="left">
