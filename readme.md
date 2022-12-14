@@ -5,7 +5,12 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&duration=3000&pause=1000&color=B800FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Student+At+Masai+School;B.E+in+ECE%2C+RNSIT%2C+Bengaluru;Wherever+you+are%2C+be+all+there!" alt="Typing SVG" /></a>
 </p>
-<!-- - 🌱 I’m currently learning *MERN stack web Development* -->
+
+
+- 🔭 I’m currently working on improveing my coding skills.
+- 🌱 I’m currently learning Web development and React.
+- ⚡ Fun fact: When I'm not developing and coding, you can find me watching Anime, Netflix, Sports😂.
+- 📫 How to reach me **harshau129@gmail.com**
 
 
 ## 🌐 Socials:
