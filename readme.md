@@ -14,9 +14,9 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 - 💻<a target="_blank" href="https://harshau9.github.io/"> Check out my portfolio</a>
 <hr>
 
-## 🌐<i>Connect with me</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## 🌐<i>Connect with me</i><img src="https://giphy.com/stickers/handshake-flashy-shake-hands-MMne5vEC4WBqV2mq0V" height="32px">
 
-
+<!-- <iframe src="https://giphy.com/embed/MMne5vEC4WBqV2mq0V" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/handshake-flashy-shake-hands-MMne5vEC4WBqV2mq0V">via GIPHY</a></p> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-umesh/) 
 <br>
