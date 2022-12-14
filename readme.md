@@ -49,4 +49,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 <br> 
 <hr>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harshau9&theme=monokai" alt="trophy" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=footer"/>
+</p>
 
