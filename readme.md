@@ -47,6 +47,6 @@
  <p>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshau9&theme=dracula" alt="profile graph" height="150" />
 </p>
-
-
-
+<br> 
+<hr>
+<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=harshau9&theme=monokai" alt="trophy" /></a> </p>
