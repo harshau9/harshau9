@@ -39,7 +39,7 @@
 
 
 <h2><i>GitHub Stats</i></h2>
-<p>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=dracula" alt="harsha" height="139" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshau9&theme=dracula" alt="harsha" height="139" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshau9&theme=dracula&utcOffset=8" alt="harsha" height="139" />
@@ -49,4 +49,4 @@
 </p>
 <br> 
 <hr>
-<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=harshau9&theme=monokai" alt="trophy" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harshau9&theme=monokai" alt="trophy" /> </p>
