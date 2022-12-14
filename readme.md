@@ -1,8 +1,8 @@
 <img alt="Photo of cherry blossoms." src="https://res.cloudinary.com/jendowns/image/upload/v1598540379/flowers_wcwnkq.jpg" />
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img align="right" alt="GIF" src="gg.gif" width="450" height="220px" />
+<img align="right" alt="GIF" src="gg.gif" width="450" height="450px" />
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&duration=3000&pause=1000&color=B800FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Student+At+Masai+School;B.E+in+ECE%2C+RNSIT%2C+Bengaluru;Wherever+you+are%2C+be+all+there!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&duration=3000&pause=1000&color=B800FF&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Student+At+Masai+School;B.E+in+ECE%2C+RNSIT%2C+Bengaluru;Wherever+you+are%2C+be+all+there!" alt="Typing SVG" /></a>
 </p>
 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences with highly scalable backend.
