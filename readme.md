@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&duration=3000&pause=1000&color=B800FF&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Student+At+Masai+School;B.E+in+ECE%2C+RNSIT%2C+Bengaluru;Wherever+you+are%2C+be+all+there!" alt="Typing SVG" /></a>
 </p>
 
-I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences.Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. 
+I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences. Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. 
 
 - 🔭 I’m currently working on improveing my coding skills.
 - 🌱 I’m currently learning Web development and React.
