@@ -1,14 +1,12 @@
 <img alt="Photo of cherry blossoms." src="https://res.cloudinary.com/jendowns/image/upload/v1598540379/flowers_wcwnkq.jpg" />
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<!-- <img align="right" alt="hello" width="150" src="https://cdn.dribbble.com/users/500242/screenshots/4046566/media/e2f2b427c4aadaccee073538c902c508.gif"> -->
-<!-- <h3 align="center">Pursuing Full Stack Web Development as a career path.</h3> -->
-<p align="center">
+<img align="right" alt="GIF" src="gg.gif" width="450" height="220px" />
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&duration=3000&pause=1000&color=B800FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Student+At+Masai+School;B.E+in+ECE%2C+RNSIT%2C+Bengaluru;Wherever+you+are%2C+be+all+there!" alt="Typing SVG" /></a>
 </p>
-<div>
+
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences with highly scalable backend.
- <img align="right" alt="GIF" src="gg.gif" width="450" height="550" />
-</div>
+
 - 🔭 I’m currently working on improveing my coding skills.
 - 🌱 I’m currently learning Web development and React.
 - ⚡ Fun fact: When I'm not developing and coding, you can find me watching Anime, Netflix, Sports😂.
