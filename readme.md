@@ -14,7 +14,11 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 - 💻<a target="_blank" href="https://harshau9.github.io/"> Check out my portfolio</a>
 <hr>
 
-## 🌐 Socials:
+## 🌐 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+<h3 align="left">Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-umesh/) 
 <br>
 
