@@ -53,7 +53,7 @@
   
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,bash,github,html,js,css,mongodb,mysql,nodejs,react,redux,sass,ts,nextjs,vscode,bootstrap,codepen,heroku,jest,netlify,vercel," />
+    <img src="https://skillicons.dev/icons?i=git,bash,github,html,css,js,mongodb,mysql,nodejs,react,redux,sass,ts,nextjs,vscode,bootstrap,codepen,heroku,jest,netlify,vercel," />
 <!--     <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/AmazonS3.svg">
