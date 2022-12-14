@@ -5,9 +5,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&duration=3000&pause=1000&color=B800FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Student+At+Masai+School;B.E+in+ECE%2C+RNSIT%2C+Bengaluru;Wherever+you+are%2C+be+all+there!" alt="Typing SVG" /></a>
 </p>
-<p align="left">
+
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences with highly scalable backend.
-<p>
+ <img align="right" alt="GIF" src="gg.gif" width="450" height="550" />
 
 - 🔭 I’m currently working on improveing my coding skills.
 - 🌱 I’m currently learning Web development and React.
