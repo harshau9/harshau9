@@ -48,7 +48,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 </p>
 <br> 
  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=harshau9&theme=dracula)](https://git.io/streak-stats" alt="profile graph" height="150" />
+    <img src="https://streak-stats.demolab.com?user=harshau9&theme=dracula" alt="profile graph" height="150" />
 </p>
 <br> 
 <hr>
@@ -56,4 +56,4 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=harshau9&theme=dracula)](https://git.io/streak-stats) -->
