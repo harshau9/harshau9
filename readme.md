@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning Web development and React.
 - ⚡ Fun fact: When I'm not developing and coding, you can find me watching Anime, Netflix, Sports😂.
 - 📫 How to reach me **harshau129@gmail.com**
-
+<br>
+<hr>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-umesh/) 
@@ -71,11 +72,8 @@
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Zhihu.svg"> -->
   </a> 
 </p>
-
-
-
-
 <br>
+<hr>
 
 <h2><i>GitHub Stats</i></h2>
 <p align="center">
