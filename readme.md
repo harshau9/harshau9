@@ -40,3 +40,5 @@
 <br> 
 <hr>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harshau9&theme=monokai" alt="trophy" /> </p>
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/harshau9/harshau9/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/harshau9/harshau9/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
