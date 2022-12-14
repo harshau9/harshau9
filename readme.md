@@ -53,15 +53,15 @@
   
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,angular,bash,css,github,html,js,mongodb,mysql,nodejs,react,ts,vscode,bootstrap," />
-    <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
+    <img src="https://skillicons.dev/icons?i=git,bash,github,html,js,css,mongodb,mysql,nodejs,react,redux,sass,ts,nextjs,vscode,bootstrap,codepen,heroku,jest,netlify,vercel," />
+<!--     <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/AmazonS3.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Baidu.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/MariaDB.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/RabbitMQ.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/RocketMQ.svg">
-    <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Zhihu.svg">
+    <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Zhihu.svg"> -->
   </a> 
 </p>
 
