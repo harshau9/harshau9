@@ -11,6 +11,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 - 🌱 I’m currently learning Web development and React.
 - ⚡ Fun fact: When I'm not developing and coding, you can find me watching Anime, Netflix, Sports😂.
 - 📫 How to reach me **harshau129@gmail.com**
+- 💻<a target="_blank" href="https://harshau9.github.io/"> Check out my portfolio</a>
 <br>
 <hr>
 
