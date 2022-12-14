@@ -21,7 +21,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-umesh/) 
 <br>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><i> Languages and Tool</i></h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"><i> Languages and Tools</i></h2>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git,bash,github,html,css,js,mongodb,mysql,nodejs,react,redux,sass,ts,nextjs,vscode,bootstrap,codepen,heroku,jest,netlify,vercel," />
