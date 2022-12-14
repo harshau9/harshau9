@@ -36,7 +36,7 @@
 
 <a href="https://www.linkedin.com/in/harsha-umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-umesh" height="30" width="40" /></a>
 </p>
-
+<br>
 
 <h2><i>GitHub Stats</i></h2>
 <p align="center">
@@ -44,6 +44,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshau9&theme=dracula" alt="harsha" height="139" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshau9&theme=dracula&utcOffset=8" alt="harsha" height="139" />
  </p>
+ <br>
  <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshau9&theme=dracula" alt="profile graph" height="150" />
 </p>
