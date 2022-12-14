@@ -14,7 +14,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 - 💻<a target="_blank" href="https://harshau9.github.io/"> Check out my portfolio</a>
 <hr>
 
-## 🌐Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## 🌐<i>Connect with me</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
