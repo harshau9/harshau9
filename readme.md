@@ -1,5 +1,5 @@
 <img alt="Photo of cherry blossoms." src="https://res.cloudinary.com/jendowns/image/upload/v1598540379/flowers_wcwnkq.jpg" />
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> HARSHA UMESH </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Pursuing Full Stack Web Development as a career path.</h3>
 
 - 🌱 I’m currently learning *MERN stack web Development*
