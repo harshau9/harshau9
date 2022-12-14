@@ -44,7 +44,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshau9&show_icons=true&theme=radical" alt="harsha" height="139" />
 </p>
 <p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshau9&theme=moonlight" alt="profile graph" height="139" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshau9&theme=moonlight" alt="profile graph" height="150" />
 </p>
 
 
