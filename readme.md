@@ -1,4 +1,6 @@
-<img alt="cherry" src="1917-snow.gif" />
+<!-- <img alt="cherry" src="1917-snow.gif" /> -->
+![1917-snow](https://user-images.githubusercontent.com/31920143/209969711-ff42b7fb-5865-42f8-b009-e8524a178f2f.gif)
+
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a><img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 </h1>
 <img align="right" alt="GIF" src="gg.gif" width="350" height="450px" />
