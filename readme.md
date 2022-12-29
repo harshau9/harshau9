@@ -1,4 +1,6 @@
-<img alt="cherry" src="flowers.png" />
+<!-- <img alt="cherry" src="flowers.png" /> -->
+![flowers](https://user-images.githubusercontent.com/31920143/209970016-90d7111d-d4b5-4f8c-a926-8fdfe33d4b03.png)
+
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a><img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 </h1>
 <img align="right" alt="GIF" src="gg.gif" width="350" height="450px" />
