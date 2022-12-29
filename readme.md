@@ -50,8 +50,6 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 <br> 
  <p align="center">
     <img src="https://streak-stats.demolab.com?user=harshau9&theme=dracula" alt="profile graph" height="150" />
-</p>
- <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshau9&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="profile graph" height="150" />
 </p>
 <br> 
