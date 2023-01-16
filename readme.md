@@ -41,7 +41,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 
 <h2><i>GitHub Stats</i></h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=dracula" alt="harsha" height="139" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=dracula" alt="harsha" height="139" /> -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshau9&theme=dracula" alt="harsha" height="139" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshau9&theme=dracula&utcOffset=8" alt="harsha" height="139" />
  </p>
