@@ -25,7 +25,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"><i> Languages and Tools</i></h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,bash,github,html,css,js,react,redux,sass,ts,nextjs,nodejs,express,mongodb,mongoose,vscode,bootstrap,codepen,heroku,jest,netlify,vercel,chakra" />
+    <img src="https://skillicons.dev/icons?i=git,bash,github,html,css,js,react,redux,sass,chakra,ts,nextjs,nodejs,express,mongodb,vscode,bootstrap,codepen,heroku,jest,netlify,vercel" />
 <!--     <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/AmazonS3.svg">
