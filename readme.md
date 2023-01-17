@@ -41,7 +41,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 
 <h2><i>GitHub Stats</i></h2>
 <p align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=dracula" alt="harsha" height="139" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=harshau9&theme=dracula" alt="harsha" height="139" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshau9&theme=dracula" alt="harsha" height="139" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshau9&theme=dracula&utcOffset=8" alt="harsha" height="139" />
  </p>
@@ -52,7 +52,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 <br> 
  <p align="center">
     <img src="https://streak-stats.demolab.com?user=harshau9&theme=dracula" alt="profile graph" height="150" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshau9&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=false" alt="profile graph" height="150" />
+<!--     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshau9&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=false" alt="profile graph" height="150" /> -->
 </p>
 <br> 
 <hr>
