@@ -16,7 +16,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 - 📫 How to reach me **harshau129@gmail.com**
 - 💻<a target="_blank" href="https://harshau9.github.io/"> Check out my portfolio</a>
 
-If you're looking for a dedicated Full Stack Developer with expertise in React Native, React.js, Node.js, MongoDB, WebRTC, and media server technologies, feel free to connect with me on LinkedIn. I am excited to collaborate on future projects and contribute to the success of your organization.
+If you're looking for a dedicated Full Stack Developer with expertise in React Native, React.js, Node.js, MongoDB, and media server technologies, feel free to connect with me on LinkedIn. I am excited to collaborate on future projects and contribute to the success of your organization.
 <hr>
 
 ## 🌐<i>Connect with me</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
