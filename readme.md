@@ -10,9 +10,9 @@
 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences. Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. 
 
-- 🔭 I’m currently working on Mobile App Development using React Native.
-- 🌱 I’m currently learning Web development and React.
-- ⚡ Fun fact: When I'm not developing and coding, you can find me watching Anime, Netflix, Sports😂.
+- 🌱 I’m currently working on a full-stack web app, building scalable and innovative solutions.
+- 🔭 I have worked on Mobile App Development using React Native.
+- ⚡ Fun fact: When I'm not developing and coding, you can find me watching Anime, Netflix, and Sports😂.
 - 📫 How to reach me **harshau129@gmail.com**
 - 💻<a target="_blank" href="https://harshau9.github.io/"> Check out my portfolio</a>
 
