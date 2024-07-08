@@ -27,7 +27,7 @@ If you're looking for a dedicated Full Stack Developer with expertise in React N
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"><i> Languages and Tools</i></h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,bash,github,html,css,js,react,redux,sass,ts,nextjs,nodejs,express,mongodb,vscode,bootstrap,codepen,heroku,jest,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,bash,github,bitbucket,html,css,js,react,nextjs,redux,sass,ts,nextjs,nodejs,express,mongodb,postgres,vscode,bootstrap,codepen,heroku,jest,netlify,vercel,postman,gcp" />
 <!--     <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/AmazonS3.svg">
