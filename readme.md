@@ -4,8 +4,9 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a><img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 </h1>
 <img align="right" alt="GIF" src="gg.gif" width="350" height="450px" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=007ACC&width=850&lines=Full-Stack+Developer+%7C+React+·+React+Native+·+TypeScript+·+Node.js;Building+scalable+web+and+mobile+applications;Experienced+in+frontend+and+backend+development;Led+full+lifecycle+of+projects+from+inception+to+deployment;Demonstrated+strong+project+management+and+leadership+skills;Passionate+about+clean+architecture+and+performance+optimization;Skilled+with+Google+Cloud+·+Supabase+·+PostgreSQL)](https://git.io/typing-svg)
-
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=C62BF7&width=435&lines=Full-Stack+Developer+%7C+React+%C2%B7+React+Native+%C2%B7+TypeScript+%C2%B7+Node.js;Building+scalable+web+and+mobile+applications;Experienced+in+frontend+and+backend+development;Led+full+lifecycle+of+projects+from+inception+to+deployment;Demonstrated+strong+project+management+and+leadership+skills;Passionate+about+clean+architecture+and+performance+optimization" alt="Typing SVG" /></a>
+</p>
 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences. Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. 
 
