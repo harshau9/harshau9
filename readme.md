@@ -3,12 +3,12 @@
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harsha-umesh/" target="_blank"> Harsha Umesh </a><img src="https://thumbs.gfycat.com/EllipticalThornyHypacrosaurus-max-1mb.gif" width="40px">
 </h1>
-<img align="right" alt="GIF" src="gg.gif" width="350" height="450px" />
 <p>
   <a href="https://github.com/harshaumesh" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=007ACC&width=850&lines=Full-Stack+Developer+%7C+React+·+React+Native+·+TypeScript+·+Node.js;Building+scalable+web+and+mobile+applications;Experienced+in+frontend+and+backend+development;Led+full+lifecycle+of+projects+from+inception+to+deployment;Demonstrated+strong+project+management+and+leadership+skills;Passionate+about+clean+architecture+and+performance+optimization;Skilled+with+Google+Cloud+·+Supabase+·+PostgreSQL" alt="Typing SVG" />
 </a>
 </p>
+<img align="right" alt="GIF" src="gg.gif" width="350" height="450px" />
 
 I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences. Being Passionate for technology 💻 and having a desire to learn and explore more 💭 makes me what I am. 
 
